@@ -1,0 +1,54 @@
+.header{
+    background-color: rgb(230, 226, 12);
+    color: rgb(5, 19, 2);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.add-Student{
+    text-align: end;
+    margin: 20px;
+}
+
+.btn1{
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color:rgb(235, 143, 5);
+}
+
+.btn1:hover{
+    background-color: rgb(62, 7, 99);
+}
+
+.list{
+    display: flex;
+    margin:20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-Details{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin:100px auto auto auto;
+    width: 400px;   
+}
+
+.view-Details{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin:100px auto auto auto;
+    width: 400px;   
+}
+
+.edit-Details{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin:100px auto auto auto;
+    width: 400px;   
+}
